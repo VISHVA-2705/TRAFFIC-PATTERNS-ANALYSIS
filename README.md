@@ -65,10 +65,10 @@ Useful for comparing traffic volume across different days
 
 ▶️ How to Run
 
-Clone the Repository
+1.Clone the Repository
 
-Install Dependencies
+2.Install Dependencies
 
-Run the Script
+3.Run the Script
 
-View Visualizations
+4.View Visualizations
